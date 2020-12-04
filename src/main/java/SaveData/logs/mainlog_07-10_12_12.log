@@ -1,0 +1,20 @@
+Jul 10, 2020 12:12:41 PM User.PasswordUsername PasswordValidityCheck
+INFO: Checking password validity
+Jul 10, 2020 12:12:41 PM Utility.SerializationFunctions userDeserialize
+INFO: Hero.Hero; local class incompatible: stream classdesc serialVersionUID = -7320436346697444007, local class serialVersionUID = 5817373666833809797
+Jul 10, 2020 12:12:53 PM User.createUser assignUserID
+INFO: Assigning userID 1
+Jul 10, 2020 12:12:53 PM User.createUser createAUser
+INFO: Creating user. Username: tt
+Jul 10, 2020 12:12:54 PM User.createUser createAUser
+INFO: Creating user log
+Jul 10, 2020 12:12:54 PM LoggingModule.LoggingClass openUserLogger
+INFO: user logger opened
+Jul 10, 2020 12:12:54 PM User.createUser createAUser
+INFO: Creating user class instance
+Jul 10, 2020 12:12:54 PM User.createUser createAUser
+INFO: User class instantiated. Serializing
+Jul 10, 2020 12:12:54 PM Utility.SerializationFunctions Serialize
+INFO: Object has been serialized
+Jul 10, 2020 12:13:44 PM Utility.SerializationFunctions Serialize
+INFO: Object has been serialized

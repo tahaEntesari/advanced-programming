@@ -1,0 +1,84 @@
+Jul 09, 2020 2:56:50 PM User.PasswordUsername PasswordValidityCheck
+INFO: Checking password validity
+Jul 09, 2020 2:56:51 PM LoggingModule.LoggingClass openUserLogger
+INFO: user logger opened
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:58 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000
+Jul 09, 2020 2:56:59 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -1293990351972681000

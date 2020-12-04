@@ -1,0 +1,12 @@
+Jul 09, 2020 4:19:47 PM User.createUser assignUserID
+INFO: Assigning userID 1
+Jul 09, 2020 4:19:47 PM User.createUser createAUser
+INFO: Creating user. Username: ttt
+Jul 09, 2020 4:19:47 PM User.createUser createAUser
+INFO: Creating user log
+Jul 09, 2020 4:19:47 PM LoggingModule.LoggingClass openUserLogger
+INFO: user logger opened
+Jul 09, 2020 4:19:47 PM User.createUser createAUser
+INFO: Creating user class instance
+Jul 09, 2020 4:19:48 PM Utility.SerializationFunctions cardDeserialize
+INFO: Card.Cards$card; local class incompatible: stream classdesc serialVersionUID = -4390499097169108776, local class serialVersionUID = -6259496758271396343

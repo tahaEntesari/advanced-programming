@@ -1,0 +1,739 @@
+Username: tt
+user ID: 0
+Password Hash:bcbc7dd0ee672c482f445f51b4c7bf7e35578f2782e5c06f3445003444316062
+Creation Time: 2020-07-11T21:59:04.072171400
+Deleted At:
+
+
+
+
+
+
+
+
+
+User logs:
+user logger opened.2020-07-11T21:59:04.254684300
+Deck creation successful
+2020-07-11T21:59:04.469159100
+Deck creation successful
+2020-07-11T21:59:04.682050200
+Deck creation successful
+2020-07-11T21:59:04.844991100
+Deck creation successful
+2020-07-11T21:59:05.017951300
+Deck creation successful
+2020-07-11T21:59:05.401997100
+The current Balance of the user 100
+2020-07-11T21:59:05.401997100
+Your current hero: Mage with hero level: 1
+2020-07-11T21:59:11.768527100
+Button click: Shop
+2020-07-11T21:59:17.636638
+Shop: Display Sellable cards
+2020-07-11T21:59:18.965461
+Shop: Display Buyable cards
+2020-07-11T21:59:21.007561700
+Button click: Back
+2020-07-11T21:59:23.149722500
+Button click: Collection
+2020-07-11T21:59:30.296634800
+Collection -> Show deck: Priest: Default deck
+2020-07-11T21:59:33.634466400
+Successful. Removed 1 instance of the card from the deck. 1 remaining.
+2020-07-11T21:59:37.113423
+Collection->Button clicked: Prie
+2020-07-11T21:59:45.660080900
+Collection: deck back button clicked.
+2020-07-11T21:59:47.998859600
+Button click: Back
+2020-07-11T21:59:51.432165900
+Button click: Collection
+2020-07-11T21:59:54.097470400
+Collection -> Show deck: Priest: Default deck
+2020-07-11T21:59:57.397831
+Successful. Removed 1 instance of the card from the deck. 1 remaining.
+2020-07-11T22:00:00.185776100
+Collection->Button clicked: Disp Buyable
+2020-07-11T22:00:00.320144700
+Collection: Display Buyable cards
+2020-07-11T22:00:00.757542
+Collection->Button clicked: Disp Available
+2020-07-11T22:00:01.048881200
+Collection: Display Available cards
+2020-07-11T22:00:03.070818600
+Collection->Button clicked: Prie
+2020-07-11T22:00:08.153595500
+Error. The deck is at full capacity. First remove a card.
+2020-07-11T22:00:11.056101400
+Collection: deck back button clicked.
+2020-07-11T22:00:12.687565400
+Button click: Back
+2020-07-11T22:13:40.087116800
+Button click: Play
+2020-07-11T22:13:53.957877500
+Successfully changed hero to Priest
+2020-07-11T22:13:56.981960700
+Arena: Finish Card Change
+2020-07-11T22:14:00.562985300
+Arena: Finish Card Change
+2020-07-11T22:14:05.214018400
+Mouse released: place a card: Strength in Numbers
+2020-07-11T22:14:05.214018400
+Card play successful.
+2020-07-11T22:14:06.550976100
+Arena: End Turn
+2020-07-11T22:14:10.916936600
+Mouse released: place a card: Goldshire Footman
+2020-07-11T22:14:10.916936600
+Card play successful.
+2020-07-11T22:14:12.366899600
+Arena: End Turn
+2020-07-11T22:14:18.643977100
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:14:18.643977100
+Card play successful.
+2020-07-11T22:14:20.113886400
+Arena: End Turn
+2020-07-11T22:14:35.441933300
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:14:35.441933300
+Card play successful.
+2020-07-11T22:14:36.741859500
+Arena: End Turn
+2020-07-11T22:14:45.237963900
+Mouse released: place a card: High Priest Amet
+2020-07-11T22:14:45.237963900
+Card play successful.
+2020-07-11T22:15:04.840678
+Arena: End Turn
+2020-07-11T22:15:23.280894100
+Arena: End Turn
+2020-07-11T22:15:33.751856600
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:15:33.751856600
+Card play successful.
+2020-07-11T22:15:57.004760900
+Mouse released: place a card: Shadowfiend
+2020-07-11T22:15:57.004760900
+Card play successful.
+2020-07-11T22:16:08.644967900
+Arena: End Turn
+2020-07-11T22:16:22.304505300
+Arena: End Turn
+2020-07-11T22:16:27.044601700
+Arena: End Turn
+2020-07-11T22:16:27.966588700
+Arena: End Turn
+2020-07-11T22:16:29.315431700
+Arena: End Turn
+2020-07-11T22:16:29.874528900
+Arena: End Turn
+2020-07-11T22:17:20.806414300
+Mouse released: place a card: High Priest Amet
+2020-07-11T22:17:20.806414300
+Card play successful.
+2020-07-11T22:17:23.686293
+Arena: End Turn
+2020-07-11T22:17:25.534411900
+Arena: End Turn
+2020-07-11T22:17:30.824481100
+Mouse released: place a card: Tomb warden
+2020-07-11T22:17:30.824481100
+Card play successful.
+2020-07-11T22:18:50.331236100
+Arena: End Turn
+user logger opened.2020-07-11T22:25:36.001094100
+Log in.
+2020-07-11T22:25:37.980522100
+Button click: Play
+2020-07-11T22:25:42.028088200
+Error/Warning. The provided hero is already selected. Returning.
+2020-07-11T22:25:43.945691
+Arena: Finish Card Change
+2020-07-11T22:25:49.462368500
+Arena: Finish Card Change
+2020-07-11T22:25:53.002632
+Arena: End Turn
+2020-07-11T22:25:54.390755100
+Arena: End Turn
+2020-07-11T22:25:54.646754900
+Arena: End Turn
+2020-07-11T22:25:54.889820400
+Arena: End Turn
+2020-07-11T22:25:55.207793
+Arena: End Turn
+2020-07-11T22:25:55.515818900
+Arena: End Turn
+2020-07-11T22:25:56.010838100
+Arena: End Turn
+2020-07-11T22:25:59.007784900
+Mouse released: place a card: Shadowfiend
+2020-07-11T22:25:59.008780700
+Card play successful.
+2020-07-11T22:26:07.529677500
+Arena: End Turn
+2020-07-11T22:26:09.549731700
+Arena: End Turn
+2020-07-11T22:26:20.943060300
+Mouse released: place a card: Shadowfiend
+2020-07-11T22:26:20.943060300
+Card play successful.
+2020-07-11T22:26:24.692953700
+Arena: End Turn
+2020-07-11T22:26:25.498088100
+Arena: End Turn
+2020-07-11T22:26:31.583611100
+Mouse released: place a card: High Priest Amet
+2020-07-11T22:26:31.583611100
+Card play successful.
+2020-07-11T22:26:46.911582200
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:26:46.911582200
+Card play successful.
+2020-07-11T22:27:10.986853900
+Arena: End Turn
+2020-07-11T22:28:25.490279200
+Mouse released: place a card: Security Rover
+2020-07-11T22:28:25.490279200
+Card play successful.
+2020-07-11T22:28:35.780571700
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:28:35.780571700
+Card play successful.
+2020-07-11T22:28:39.153368400
+Arena: End Turn
+2020-07-11T22:28:41.090310200
+Mouse released: place a card: Stonetusk Boar
+2020-07-11T22:28:41.090310200
+Card play successful.
+2020-07-11T22:29:45.267724
+Arena: End Turn
+2020-07-11T22:30:01.240232600
+Mouse released: place a card: Polymorph
+2020-07-11T22:30:01.240232600
+Card play successful.
+2020-07-11T22:30:11.366258200
+Mouse released: place a card: Holy Fire
+2020-07-11T22:30:11.366258200
+Card play successful.
+2020-07-11T22:30:25.182149700
+Mouse released: place a card: Goldshire Footman
+2020-07-11T22:30:25.182149700
+Card play successful.
+2020-07-11T22:30:28.666134600
+Arena: End Turn
+2020-07-11T22:30:46.989065300
+Arena: End Turn
+2020-07-11T22:30:53.886339900
+Mouse released: place a card: Lord of the Arena
+2020-07-11T22:30:53.886339900
+Card play successful.
+2020-07-11T22:31:05.716010600
+Used hero Power
+2020-07-11T22:31:16.220146900
+Mouse released: place a card: Goldshire Footman
+2020-07-11T22:31:16.220146900
+Card play successful.
+2020-07-11T22:31:19.178041600
+Arena: End Turn
+2020-07-11T22:31:32.052193200
+Mouse released: place a card: Swarm of locusts
+2020-07-11T22:31:32.052193200
+Card play successful.
+2020-07-11T22:31:36.913317500
+Arena: End Turn
+2020-07-11T22:31:41.445145800
+Mouse released: place a card: Shieldbearer
+2020-07-11T22:31:41.445145800
+Card play successful.
+2020-07-11T22:31:43.724359600
+Used hero Power
+user logger opened.2020-07-11T22:38:55.315657500
+Log in.
+2020-07-11T22:39:22.930450400
+Button click: Play
+2020-07-11T22:39:33.643115
+Successfully changed hero to Priest
+2020-07-11T22:39:36.580018200
+Arena: Finish Card Change
+2020-07-11T22:39:38.212918700
+Arena: Finish Card Change
+2020-07-11T22:39:41.747970700
+Arena: End Turn
+2020-07-11T22:39:41.931321700
+Arena: End Turn
+2020-07-11T22:39:42.112839200
+Arena: End Turn
+2020-07-11T22:39:42.308321700
+Arena: End Turn
+2020-07-11T22:39:42.490602400
+Arena: End Turn
+2020-07-11T22:39:42.698049800
+Arena: End Turn
+2020-07-11T22:39:42.905008700
+Arena: End Turn
+2020-07-11T22:39:45.855416100
+Arena: End Turn
+2020-07-11T22:39:48.891901300
+Mouse released: place a card: High Priest Amet
+2020-07-11T22:39:48.891901300
+Card play successful.
+2020-07-11T22:39:50.984908300
+Arena: End Turn
+2020-07-11T22:39:53.374963500
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:39:53.374963500
+Card play successful.
+2020-07-11T22:39:56.153480300
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:39:56.153480300
+Card play successful.
+2020-07-11T22:39:59.077312500
+Mouse released: place a card: Goldshire Footman
+2020-07-11T22:39:59.077312500
+Card play successful.
+2020-07-11T22:40:02.623401600
+Arena: End Turn
+2020-07-11T22:40:09.386404900
+Mouse released: place a card: Swarm of locusts
+2020-07-11T22:40:09.386404900
+Card play successful.
+user logger opened.2020-07-11T22:42:29.009915200
+Log in.
+2020-07-11T22:42:30.893303200
+Button click: Play
+2020-07-11T22:42:39.555753800
+Successfully changed hero to Priest
+2020-07-11T22:43:06.051964
+Arena: Finish Card Change
+2020-07-11T22:43:09.573488100
+Arena: Finish Card Change
+2020-07-11T22:43:13.438876500
+Arena: End Turn
+2020-07-11T22:43:14.998997100
+Arena: End Turn
+2020-07-11T22:43:17.572075300
+Mouse released: place a card: Shadowfiend
+2020-07-11T22:43:17.572075300
+Card play successful.
+2020-07-11T22:43:19.301078300
+Arena: End Turn
+2020-07-11T22:43:20.567971800
+Arena: End Turn
+2020-07-11T22:43:21.019762200
+Arena: End Turn
+2020-07-11T22:43:21.872141900
+Arena: End Turn
+2020-07-11T22:43:22.653784700
+Arena: End Turn
+2020-07-11T22:43:22.884188700
+Arena: End Turn
+2020-07-11T22:43:24.507076500
+Arena: End Turn
+2020-07-11T22:43:25.847063100
+Arena: End Turn
+2020-07-11T22:43:46.869398700
+Mouse released: place a card: Divine Spirit
+2020-07-11T22:43:46.870396
+Card play successful.
+2020-07-11T22:43:55.328590100
+Mouse released: place a card: Security Rover
+2020-07-11T22:43:55.328590100
+Card play successful.
+2020-07-11T22:43:56.401139200
+Arena: End Turn
+2020-07-11T22:44:30.558135800
+Arena: End Turn
+2020-07-11T22:44:32.018920200
+Arena: End Turn
+2020-07-11T22:44:32.678894200
+Arena: End Turn
+2020-07-11T22:44:33.420902
+Arena: End Turn
+2020-07-11T22:44:33.981914800
+Arena: End Turn
+2020-07-11T22:44:34.786923800
+Arena: End Turn
+2020-07-11T22:44:35.627773200
+Arena: End Turn
+2020-07-11T22:44:39.870023700
+Mouse released: place a card: Swarm of locusts
+2020-07-11T22:44:39.870023700
+Card play successful.
+2020-07-11T22:44:42.956928500
+Arena: End Turn
+2020-07-11T22:46:19.513114600
+Arena: End Turn
+2020-07-11T22:46:22.316443500
+Mouse released: place a card: Security Rover
+2020-07-11T22:46:22.316443500
+Card play successful.
+2020-07-11T22:46:24.292178800
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:46:24.292178800
+Card play successful.
+2020-07-11T22:46:27.487014600
+Mouse released: place a card: Novice Engineer
+2020-07-11T22:46:27.488012
+Card play successful.
+2020-07-11T22:46:37.971677500
+Arena: End Turn
+user logger opened.2020-07-11T22:59:39.863032600
+Log in.
+2020-07-11T23:00:57.017248900
+Button click: Play
+2020-07-11T23:01:03.994779700
+Successfully changed hero to Priest
+2020-07-11T23:01:06.563095
+Arena: Finish Card Change
+2020-07-11T23:01:11.012160700
+Arena: Finish Card Change
+2020-07-11T23:01:14.098735800
+Mouse released: place a card: Goldshire Footman
+2020-07-11T23:01:14.098735800
+Card play successful.
+2020-07-11T23:01:15.071133400
+Arena: End Turn
+2020-07-11T23:01:17.180997
+Arena: End Turn
+2020-07-11T23:01:17.412608
+Arena: End Turn
+2020-07-11T23:01:17.632038400
+Arena: End Turn
+2020-07-11T23:01:17.840501300
+Arena: End Turn
+2020-07-11T23:01:18.046947900
+Arena: End Turn
+2020-07-11T23:01:18.867752200
+Arena: End Turn
+2020-07-11T23:01:22.558980800
+Mouse released: place a card: Swarm of locusts
+2020-07-11T23:01:22.558980800
+Card play unsuccessful. Low on Mana.
+2020-07-11T23:01:24.864615500
+Arena: End Turn
+2020-07-11T23:01:30.363580200
+Mouse released: place a card: Security Rover
+2020-07-11T23:01:30.363580200
+Card play unsuccessful. Low on Mana.
+2020-07-11T23:01:34.178515300
+Mouse released: place a card: Security Rover
+2020-07-11T23:01:34.179513200
+Card play unsuccessful. Low on Mana.
+2020-07-11T23:01:46.006898
+Mouse released: place a card: Novice Engineer
+2020-07-11T23:01:46.006898
+Card play successful.
+2020-07-11T23:01:47.565916300
+Arena: End Turn
+2020-07-11T23:01:49.919506300
+Mouse released: place a card: Swarm of locusts
+2020-07-11T23:01:49.919506300
+Card play successful.
+2020-07-11T23:02:06.061871100
+Arena: End Turn
+2020-07-11T23:02:06.659192500
+Arena: End Turn
+2020-07-11T23:02:09.294280100
+Mouse released: place a card: Novice Engineer
+2020-07-11T23:02:09.294280100
+Card play successful.
+2020-07-11T23:02:10.402483100
+Arena: End Turn
+user logger opened.2020-07-11T23:09:55.729361200
+Log in.
+2020-07-11T23:09:59.104694600
+Button click: Play
+2020-07-11T23:10:07.445108
+Button click: Collection
+2020-07-11T23:10:13.530187100
+Collection -> Show deck: Mage: Default deck
+2020-07-11T23:10:21.001076
+Searched for card sath in shop.
+2020-07-11T23:10:25.709130600
+Searched for card sathrovarr in shop.
+2020-07-11T23:10:30.076072
+Successful. Removed 1 instance of the card from the deck. 1 remaining.
+2020-07-11T23:10:32.015022200
+Successful. Removed card from deck.
+2020-07-11T23:10:39.479083900
+Collection: deck back button clicked.
+2020-07-11T23:10:41.370803500
+Collection -> Show deck: Rogue: Default deck
+2020-07-11T23:10:48.001301700
+Searched for card sathr in shop.
+2020-07-11T23:10:50.886518600
+Searched for card sathrovarr in shop.
+2020-07-11T23:10:54.331464200
+Successful. Removed 1 instance of the card from the deck. 1 remaining.
+2020-07-11T23:10:57.064171700
+Successful. Removed card from deck.
+2020-07-11T23:11:05.381057700
+Button click: Back
+2020-07-11T23:11:06.393618800
+Button click: Play
+2020-07-11T23:11:10.152833100
+Error/Warning. The provided hero is already selected. Returning.
+2020-07-11T23:11:11.905507900
+Arena: Finish Card Change
+2020-07-11T23:11:13.624975600
+Arena: Finish Card Change
+2020-07-11T23:11:19.298376
+Mouse released: place a card: Stonetusk Boar
+2020-07-11T23:11:19.299374
+Card play successful.
+2020-07-11T23:11:20.637807600
+Arena: End Turn
+2020-07-11T23:11:23.662927600
+Mouse released: place a card: Shieldbearer
+2020-07-11T23:11:23.662927600
+Card play successful.
+2020-07-11T23:11:24.808474900
+Arena: End Turn
+2020-07-11T23:11:24.980014300
+Arena: End Turn
+2020-07-11T23:11:25.125623700
+Arena: End Turn
+2020-07-11T23:11:25.285138600
+Arena: End Turn
+2020-07-11T23:11:25.482613400
+Arena: End Turn
+2020-07-11T23:11:25.609742100
+Arena: End Turn
+2020-07-11T23:11:25.878503100
+Arena: End Turn
+2020-07-11T23:11:25.937346400
+Arena: End Turn
+2020-07-11T23:11:26.268460100
+Arena: End Turn
+2020-07-11T23:11:26.335281200
+Arena: End Turn
+2020-07-11T23:11:26.732370200
+Arena: End Turn
+2020-07-11T23:11:26.805388700
+Arena: End Turn
+2020-07-11T23:11:26.805388700
+Arena: End Turn
+2020-07-11T23:11:27.092683400
+Arena: End Turn
+2020-07-11T23:11:29.991541600
+Arena: End Turn
+2020-07-11T23:11:36.223386
+Mouse released: place a card: Sathrovarr
+2020-07-11T23:11:36.223386
+Card play successful.
+2020-07-11T23:11:50.210023
+Arena: End Turn
+2020-07-11T23:11:51.246453
+Arena: End Turn
+2020-07-11T23:11:55.039200200
+Mouse released: place a card: Sathrovarr
+2020-07-11T23:11:55.039200200
+Card play successful.
+user logger opened.2020-07-12T01:22:47.402763100
+Log in.
+2020-07-12T01:22:50.225210100
+Button click: Play
+2020-07-12T01:23:00.624389800
+Error/Warning. The provided hero is already selected. Returning.
+2020-07-12T01:23:04.046232500
+Arena: Finish Card Change
+2020-07-12T01:23:07.394274900
+Arena: Finish Card Change
+2020-07-12T01:23:11.099398400
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:23:11.099398400
+Card play successful.
+2020-07-12T01:23:12.970391400
+Arena: End Turn
+2020-07-12T01:23:17.147216700
+Arena: End Turn
+2020-07-12T01:23:20.107297100
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:23:20.107297100
+Card play successful.
+2020-07-12T01:23:21.227300400
+Arena: End Turn
+2020-07-12T01:23:23.735590700
+Mouse released: place a card: Novice Engineer
+2020-07-12T01:23:23.735590700
+Card play successful.
+2020-07-12T01:23:25.026137900
+Arena: End Turn
+2020-07-12T01:23:38.216848400
+Used hero Power
+2020-07-12T01:23:40.773008700
+Arena: End Turn
+2020-07-12T01:23:43.746054400
+Mouse released: place a card: Shieldbearer
+2020-07-12T01:23:43.746054400
+Card play successful.
+2020-07-12T01:23:45.656940300
+Mouse released: place a card: Depth Charge
+2020-07-12T01:23:45.656940300
+Card play successful.
+2020-07-12T01:23:50.808159400
+Used hero Power
+2020-07-12T01:23:55.837703500
+Arena: End Turn
+2020-07-12T01:23:59.284483
+Mouse released: place a card: Novice Engineer
+2020-07-12T01:23:59.284483
+Card play successful.
+2020-07-12T01:24:01.987251600
+Mouse released: place a card: Stonetusk Boar
+2020-07-12T01:24:01.988248800
+Card play successful.
+2020-07-12T01:24:31.107341200
+Used hero Power
+2020-07-12T01:24:42.653483100
+Arena: End Turn
+2020-07-12T01:24:45.808882600
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:24:45.808882600
+Card play successful.
+2020-07-12T01:24:48.438590400
+Used hero Power
+2020-07-12T01:24:51.607424900
+Mouse released: place a card: Novice Engineer
+2020-07-12T01:24:51.607424900
+Card play successful.
+2020-07-12T01:24:53.603860200
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:24:53.603860200
+Card play unsuccessful. Low on Mana.
+2020-07-12T01:24:56.757647800
+Arena: End Turn
+2020-07-12T01:25:00.768618600
+Mouse released: place a card: Lord of the Arena
+2020-07-12T01:25:00.768618600
+Card play successful.
+2020-07-12T01:25:02.238532900
+Arena: End Turn
+2020-07-12T01:25:07.379881800
+Mouse released: place a card: Dreadscale
+2020-07-12T01:25:07.379881800
+Card play successful.
+2020-07-12T01:25:15.429346
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:25:15.429346
+Card play successful.
+2020-07-12T01:25:16.731861400
+Arena: End Turn
+2020-07-12T01:25:21.896314700
+Mouse released: place a card: Divine Spirit
+2020-07-12T01:25:21.897312700
+Card play successful.
+2020-07-12T01:25:26.963757300
+Arena: End Turn
+user logger opened.2020-07-12T01:28:49.103591900
+Log in.
+2020-07-12T01:28:51.160089200
+Button click: Play
+2020-07-12T01:28:57.072272700
+Successfully changed hero to Warlock
+2020-07-12T01:28:59.294326600
+Arena: Finish Card Change
+2020-07-12T01:29:04.105453800
+Arena: Finish Card Change
+2020-07-12T01:29:06.614740700
+Arena: End Turn
+2020-07-12T01:29:07.308883100
+Arena: End Turn
+2020-07-12T01:29:07.941191400
+Arena: End Turn
+2020-07-12T01:29:11.811836900
+Mouse released: place a card: Stonetusk Boar
+2020-07-12T01:29:11.811836900
+Card play successful.
+2020-07-12T01:29:13.008635800
+Arena: End Turn
+2020-07-12T01:29:17.892567400
+Mouse released: place a card: Dreadscale
+2020-07-12T01:29:17.892567400
+Card play successful.
+2020-07-12T01:29:19.304789500
+Arena: End Turn
+user logger opened.2020-07-12T01:30:59.655756700
+Log in.
+2020-07-12T01:31:01.528745200
+Button click: Play
+2020-07-12T01:31:11.560905500
+Successfully changed hero to Warlock
+2020-07-12T01:31:13.426911400
+Arena: Finish Card Change
+2020-07-12T01:31:14.831154600
+Arena: Finish Card Change
+2020-07-12T01:31:17.239711100
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:31:17.240707900
+Card play successful.
+2020-07-12T01:31:18.627001100
+Arena: End Turn
+2020-07-12T01:31:21.068467200
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:31:21.068467200
+Card play successful.
+2020-07-12T01:31:28.248298200
+Arena: End Turn
+2020-07-12T01:31:35.238594600
+Mouse released: place a card: Goldshire Footman
+2020-07-12T01:31:35.238594600
+Card play successful.
+2020-07-12T01:31:44.688319
+Used hero Power
+2020-07-12T01:31:47.537200500
+Arena: End Turn
+2020-07-12T01:31:50.752596900
+Mouse released: place a card: Bloodfen Raptor
+2020-07-12T01:31:50.753595
+Card play successful.
+2020-07-12T01:31:57.804729600
+Mouse released: place a card: Stonetusk Boar
+2020-07-12T01:31:57.804729600
+Card play successful.
+2020-07-12T01:32:00.787750600
+Arena: End Turn
+2020-07-12T01:32:03.953282200
+Mouse released: place a card: Dreadscale
+2020-07-12T01:32:03.953282200
+Card play successful.
+2020-07-12T01:32:24.753659700
+Arena: End Turn
+2020-07-12T01:32:31.952402500
+Arena: End Turn
+2020-07-12T01:32:32.988629100
+Arena: End Turn
+2020-07-12T01:32:37.389853300
+Mouse released: place a card: Sunreaver Warmage
+2020-07-12T01:32:37.389853300
+Card play successful.
+2020-07-12T01:32:44.119846900
+Arena: End Turn
+2020-07-12T01:32:47.250470400
+Arena: End Turn
+2020-07-12T01:32:48.359504
+Arena: End Turn
+2020-07-12T01:32:49.004777600
+Arena: End Turn
+2020-07-12T01:32:49.771725700
+Arena: End Turn
+2020-07-12T01:32:50.198583300
+Arena: End Turn
+2020-07-12T01:32:53.340178600
+Mouse released: place a card: Friendly Smith
+2020-07-12T01:32:53.340178600
+Card play successful.
+2020-07-12T01:33:03.765286700
+Arena: End Turn
+2020-07-12T01:33:04.595066700
+Arena: End Turn
+2020-07-12T01:33:06.214734400
+Arena: End Turn
+2020-07-12T01:33:07.104353100
+Arena: End Turn
+2020-07-12T01:33:10.282850400
+Mouse released: place a card: Sathrovarr
+2020-07-12T01:33:10.282850400
+Card play successful.

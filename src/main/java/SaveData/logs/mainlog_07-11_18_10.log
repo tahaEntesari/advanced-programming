@@ -1,0 +1,8 @@
+Jul 11, 2020 6:10:23 PM User.PasswordUsername PasswordValidityCheck
+INFO: Checking password validity
+Jul 11, 2020 6:10:24 PM LoggingModule.LoggingClass openUserLogger
+INFO: user logger opened
+Jul 11, 2020 6:10:56 PM Utility.SerializationFunctions Serialize
+INFO: Object has been serialized
+Jul 11, 2020 6:11:24 PM Utility.SerializationFunctions Serialize
+INFO: Object has been serialized

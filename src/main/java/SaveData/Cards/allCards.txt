@@ -1,0 +1,653 @@
+[
+  {
+    "abilities": {
+      "taunt": true
+    },
+    "attackPower": 1,
+    "mana": 1,
+    "name": "Goldshire Footman",
+    "heroClass": "Neutral",
+    "description": "Taunt",
+    "health": 2,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "charge": true
+    },
+    "attackPower": 1,
+    "mana": 1,
+    "name": "Stonetusk Boar",
+    "heroClass": "Neutral",
+    "description": "Charge",
+    "health": 1,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "taunt": true
+    },
+    "attackPower": 0,
+    "mana": 1,
+    "name": "Shieldbearer",
+    "heroClass": "Neutral",
+    "description": "Taunt",
+    "health": 4,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {},
+    "attackPower": 0,
+    "mana": 1,
+    "name": "Depth Charge",
+    "heroClass": "Neutral",
+    "description": "At the start of your turn, deal 5 damage to all minions",
+    "health": 5,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {},
+    "attackPower": 3,
+    "mana": 2,
+    "name": "Bloodfen Raptor",
+    "heroClass": "Neutral",
+    "description": "",
+    "health": 2,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "draw": {
+        "numberOfCardsToDraw": 1,
+        "specificCardDrawType": "",
+        "discardSpecificCards": false,
+        "discardCardClass": "",
+        "specificCardDraw": false
+      }
+    },
+    "attackPower": 1,
+    "mana": 2,
+    "name": "Novice Engineer",
+    "heroClass": "Neutral",
+    "description": "Battlecry: Draw a card.",
+    "health": 1,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {},
+    "attackPower": 4,
+    "mana": 5,
+    "name": "Sunreaver Warmage",
+    "heroClass": "Neutral",
+    "description": "Battlecry: If you\u0027re holding a spell that costs 5 or more, deal 4 damage.",
+    "health": 4,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "taunt": true
+    },
+    "attackPower": 6,
+    "mana": 6,
+    "name": "Lord of the Arena",
+    "heroClass": "Neutral",
+    "description": "Taunt",
+    "health": 5,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "divineShield": true,
+      "taunt": true
+    },
+    "attackPower": 2,
+    "mana": 8,
+    "name": "Mosh\u0027Ogg Enforcer",
+    "heroClass": "Neutral",
+    "description": "Taunt\n Divine shield",
+    "health": 14,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "taunt": true
+    },
+    "attackPower": 10,
+    "mana": 10,
+    "name": "Living Monument",
+    "heroClass": "Neutral",
+    "description": "Taunt",
+    "health": 10,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {},
+    "attackPower": 5,
+    "mana": 9,
+    "name": "Sathrovarr",
+    "heroClass": "Neutral",
+    "description": "Battlecry: Choose a friendly minion. Add a copy of it to your hand, deck, and battlefield.",
+    "health": 5,
+    "type": "Minion",
+    "rarity": "Legendary"
+  },
+  {
+    "abilities": {
+      "summon": {
+        "specificCard": true,
+        "specificCardName": "Tomb warden",
+        "numberOfCardsToSummon": 1,
+        "fromHandDeckNoWhere": "nowhere"
+      },
+      "taunt": true
+    },
+    "attackPower": 3,
+    "mana": 8,
+    "name": "Tomb warden",
+    "heroClass": "Neutral",
+    "description": "Taunt\nBattlecry: Summon a copy of this minion.",
+    "health": 6,
+    "type": "Minion",
+    "rarity": "Epic"
+  },
+  {
+    "abilities": {},
+    "attackPower": 2,
+    "mana": 6,
+    "name": "Security Rover",
+    "heroClass": "Neutral",
+    "description": "Whenever this minion takes damage, summon a 2/3 Mech with Taunt.",
+    "health": 6,
+    "type": "Minion",
+    "rarity": "Epic"
+  },
+  {
+    "abilities": {},
+    "attackPower": 4,
+    "mana": 5,
+    "name": "Curio Collector",
+    "heroClass": "Neutral",
+    "description": "Whenever you draw a card, gain +1/+1.",
+    "health": 4,
+    "type": "Minion",
+    "rarity": "Epic"
+  },
+  {
+    "abilities": {},
+    "attackPower": 1,
+    "mana": 1,
+    "name": "Sheep",
+    "heroClass": "Neutral",
+    "description": "",
+    "health": 1,
+    "type": "Minion",
+    "rarity": "Epic"
+  },
+  {
+    "abilities": {
+      "taunt": true
+    },
+    "attackPower": 2,
+    "mana": 2,
+    "name": "Terminator",
+    "heroClass": "Neutral",
+    "description": "Taunt",
+    "health": 3,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "reborn": true
+    },
+    "attackPower": 6,
+    "mana": 5,
+    "name": "Viserion",
+    "heroClass": "Neutral",
+    "description": "Reborn",
+    "health": 6,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "rush": true
+    },
+    "attackPower": 1,
+    "mana": 0,
+    "name": "Locust",
+    "heroClass": "Neutral",
+    "description": "Rush",
+    "health": 1,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {},
+    "attackPower": 1,
+    "mana": 1,
+    "name": "Silver Hand Recruit",
+    "heroClass": "Paladin",
+    "description": "",
+    "health": 1,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "restore": {
+        "amount": 3,
+        "canOnlyRestoreHero": false
+      }
+    },
+    "mana": 0,
+    "name": "Regenerate",
+    "heroClass": "Neutral",
+    "description": "Restore 3 health",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "give": {
+        "attackBoost": 0,
+        "hpBoost": -2,
+        "targets": 1
+      }
+    },
+    "mana": 2,
+    "name": "Divine Spirit",
+    "heroClass": "Neutral",
+    "description": "Double a minions health",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "deal": {
+        "amount": 5,
+        "attackAmountIsWholeSum": false,
+        "randomTargets": false,
+        "numberOfTargets": 1
+      },
+      "restore": {
+        "amount": 5,
+        "canOnlyRestoreHero": true
+      }
+    },
+    "mana": 6,
+    "name": "Holy Fire",
+    "heroClass": "Neutral",
+    "description": "Deal 5 damage. Restore 5 health to your here",
+    "type": "Spell",
+    "rarity": "Rare"
+  },
+  {
+    "abilities": {
+      "deal": {
+        "amount": 3,
+        "attackAmountIsWholeSum": true,
+        "randomTargets": true,
+        "numberOfTargets": 3
+      }
+    },
+    "mana": 1,
+    "name": "Arcane Missiles",
+    "heroClass": "Neutral",
+    "description": "Deal 3 damage to random enemies.",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "deal": {
+        "amount": 6,
+        "attackAmountIsWholeSum": false,
+        "randomTargets": false,
+        "numberOfTargets": 1
+      }
+    },
+    "mana": 4,
+    "name": "Fireball",
+    "heroClass": "Neutral",
+    "description": "Deal 6 damage.",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "deal": {
+        "amount": 4,
+        "attackAmountIsWholeSum": false,
+        "randomTargets": false,
+        "numberOfTargets": -2
+      }
+    },
+    "mana": 7,
+    "name": "Flamestrike",
+    "heroClass": "Neutral",
+    "description": "Deal 4 damage to all enemy minions.",
+    "type": "Spell",
+    "rarity": "Epic"
+  },
+  {
+    "abilities": {
+      "draw": {
+        "numberOfCardsToDraw": 4,
+        "specificCardDrawType": "",
+        "discardSpecificCards": false,
+        "discardCardClass": "",
+        "specificCardDraw": false
+      }
+    },
+    "mana": 7,
+    "name": "Sprint",
+    "heroClass": "Neutral",
+    "description": "Draw 4 cards",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "summon": {
+        "specificCard": true,
+        "specificCardName": "Locust",
+        "numberOfCardsToSummon": 7,
+        "fromHandDeckNoWhere": "nowhere"
+      }
+    },
+    "mana": 6,
+    "name": "Swarm of locusts",
+    "heroClass": "Neutral",
+    "description": "Summon seven 1/1 Locusts with Rush",
+    "type": "Spell",
+    "rarity": "Rare"
+  },
+  {
+    "abilities": {
+      "give": {
+        "attackBoost": 4,
+        "newAbilities": {
+          "divineShield": true,
+          "taunt": true
+        },
+        "hpBoost": 4,
+        "targets": 1
+      }
+    },
+    "mana": 6,
+    "name": "Pharaoh\u0027s Blessing",
+    "heroClass": "Neutral",
+    "description": "Give a minion +4/+4, Divine Shield, and Taunt.",
+    "type": "Spell",
+    "rarity": "Rare"
+  },
+  {
+    "abilities": {
+      "draw": {
+        "numberOfCardsToDraw": 3,
+        "specificCardDrawType": "",
+        "discardSpecificCards": true,
+        "discardCardClass": "Spell",
+        "specificCardDraw": false
+      }
+    },
+    "mana": 2,
+    "name": "Book of Specters",
+    "heroClass": "Neutral",
+    "description": "Draw 3 cards. Discard any spells drawn",
+    "type": "Spell",
+    "rarity": "Epic"
+  },
+  {
+    "abilities": {},
+    "mana": 1,
+    "name": "Strength in Numbers",
+    "heroClass": "Neutral",
+    "description": "Sidequest: Spend 10 Mana on minions. Reward: Summon a minion from your deck.",
+    "type": "Quest",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {},
+    "mana": 1,
+    "name": "Learn Draconic",
+    "heroClass": "Neutral",
+    "description": "Sidequest: Spend 8 Mana on spells. Reward: Summon a 6/6 Dragon.",
+    "type": "Quest",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "summon": "false",
+      "battlecry": "false"
+    },
+    "attackPower": 3,
+    "mana": 3,
+    "durability": 8,
+    "name": "Blood Fury",
+    "heroClass": "Neutral",
+    "description": "",
+    "type": "Weapon",
+    "rarity": "Legendary"
+  },
+  {
+    "abilities": {
+      "summon": "false",
+      "battlecry": "false"
+    },
+    "attackPower": 2,
+    "mana": 1,
+    "durability": 2,
+    "name": "Poisoned Dagger",
+    "heroClass": "Neutral",
+    "description": "",
+    "type": "Weapon",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "summon": "false",
+      "battlecry": "false"
+    },
+    "attackPower": 5,
+    "mana": 5,
+    "durability": 3,
+    "name": "Ashbringer",
+    "heroClass": "Neutral",
+    "description": "",
+    "type": "Weapon",
+    "rarity": "Rare"
+  },
+  {
+    "abilities": {},
+    "mana": 4,
+    "name": "Polymorph",
+    "heroClass": "Mage",
+    "description": "Transform a minion into a 1/1 sheep",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "deal": {
+        "amount": 1,
+        "attackAmountIsWholeSum": false,
+        "randomTargets": false,
+        "numberOfTargets": -2
+      }
+    },
+    "attackPower": 2,
+    "mana": 3,
+    "name": "Twilight Flamecaller",
+    "heroClass": "Mage",
+    "description": "Battlecry: Deal 1 damage to all enemy minions",
+    "health": 2,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "discover": {
+        "specificCardClassName": "Weapon",
+        "newAbilities": {
+          "attackBoost": 2,
+          "durabilityBoost": 2
+        },
+        "willChangeCard": true,
+        "specificCardClass": true
+      }
+    },
+    "mana": 1,
+    "name": "Friendly Smith",
+    "heroClass": "Rogue",
+    "description": "Discover a weapon from any class and add it to your deck with +2/+2",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "give": {
+        "attackBoost": 0,
+        "hpBoost": 0,
+        "newAbilities": {
+          "poisonous": true
+        }
+      }
+    },
+    "attackPower": 3,
+    "mana": 4,
+    "name": "Plaguebringer",
+    "heroClass": "Rogue",
+    "description": "Battlecry: Give a friendly minion poisonous.",
+    "health": 3,
+    "type": "Minion",
+    "rarity": "Rare"
+  },
+  {
+    "abilities": {
+      "summon": "false",
+      "battlecry": "false"
+    },
+    "attackPower": 3,
+    "mana": 3,
+    "durability": 2,
+    "name": "Shadowblade",
+    "heroClass": "Rogue",
+    "description": "Battlecry: Your hero is immune this turn.",
+    "type": "Weapon",
+    "rarity": "Rare"
+  },
+  {
+    "abilities": {},
+    "attackPower": 4,
+    "mana": 3,
+    "name": "Dreadscale",
+    "heroClass": "Warlock",
+    "description": "At the end of your turn, deal 1 damage to all other minions",
+    "health": 2,
+    "type": "Minion",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "deal": {
+        "amount": -1,
+        "attackAmountIsWholeSum": false,
+        "randomTargets": false,
+        "numberOfTargets": -4
+      }
+    },
+    "mana": 8,
+    "name": "Twisting Nether",
+    "heroClass": "Warlock",
+    "description": "Destroy all minions.",
+    "type": "Spell",
+    "rarity": "Rare"
+  },
+  {
+    "abilities": {
+      "summon": "false",
+      "battlecry": "false"
+    },
+    "attackPower": 0,
+    "mana": 5,
+    "durability": 3,
+    "name": "Skull of the Man\u0027ari",
+    "heroClass": "Warlock",
+    "description": "At the start of your turn, summon a minion from your hand",
+    "type": "Weapon",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {
+      "give": {
+        "attackBoost": 0,
+        "newAbilities": {
+          "charge": true,
+          "lifeSteal": true,
+          "divineShield": true,
+          "poisonous": true,
+          "windfury": true,
+          "taunt": true
+        },
+        "hpBoost": 0,
+        "targets": 1
+      }
+    },
+    "mana": 5,
+    "name": "Gnomish Army Knife",
+    "heroClass": "Paladin",
+    "description": "Give a minion Charge, Windfury, Divine Shield, Lifesteal, Poisonous and Taunt",
+    "type": "Spell",
+    "rarity": "Epic"
+  },
+  {
+    "abilities": {
+      "deal": {
+        "amount": 2,
+        "attackAmountIsWholeSum": false,
+        "randomTargets": false,
+        "numberOfTargets": -3
+      }
+    },
+    "mana": 4,
+    "name": "Consecration",
+    "heroClass": "Paladin",
+    "description": "Deal 2 damage to all enemies",
+    "type": "Spell",
+    "rarity": "Common"
+  },
+  {
+    "abilities": {},
+    "attackPower": 2,
+    "mana": 4,
+    "name": "High Priest Amet",
+    "heroClass": "Priest",
+    "description": "Whenever you summon a minion, set its Health equal to this minion\u0027s.",
+    "health": 7,
+    "type": "Minion",
+    "rarity": "Legendary"
+  },
+  {
+    "abilities": {},
+    "attackPower": 3,
+    "mana": 3,
+    "name": "Shadowfiend",
+    "heroClass": "Priest",
+    "description": "Whenever you draw a card, reduce its Cost by (1).",
+    "health": 3,
+    "type": "Minion",
+    "rarity": "Epic"
+  }
+]

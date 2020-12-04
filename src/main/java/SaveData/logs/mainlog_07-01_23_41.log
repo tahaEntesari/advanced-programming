@@ -1,0 +1,6 @@
+Jul 01, 2020 11:41:50 PM User.UserFunctions userLogIn
+INFO: Error. No such user; or user has been deleted.
+Jul 01, 2020 11:41:54 PM User.PasswordUsername PasswordValidityCheck
+INFO: Checking password validity
+Jul 01, 2020 11:41:54 PM LoggingModule.LoggingClass openUserLogger
+INFO: user logger opened
